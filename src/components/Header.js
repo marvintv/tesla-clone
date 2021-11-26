@@ -109,6 +109,7 @@ display: flex;
 flex: 1;
 justify-content: center;
 align-items: center;
+margin-left: 15vh;
 a{
     font-weight: 600;
     text-transform: uppercase;
