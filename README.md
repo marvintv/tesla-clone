@@ -1,7 +1,7 @@
 
-## Tesla Website Clone 🌐 ⚡️
+##  ⚡️ Tesla Website Clone ⚡️
 
-This is a Tesla website clone that I have developed using React/Styled Components and Redux. 🔥
+This is a Tesla website clone that I have developed using React/Styled Components and Redux.🌐
 
 Link https://stoic-benz-d555c1.netlify.app/
 
