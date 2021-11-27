@@ -4,7 +4,9 @@
 Link https://stoic-benz-d555c1.netlify.app/
 
 <img src="https://i.gyazo.com/c6562790cb59a3cd54c54924bdcbfc83.jpg">
-In the project directory, you can run:
+Once you clone the project, you can the project directory, you can run:
+
+## Instructions: 
 
 ### `yarn`
 
