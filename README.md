@@ -18,5 +18,5 @@ Once you clone the project, you can the project directory, you can run:
 - Home Page contains sections
 - Redux used to populate header/menu with Vehicles
 - Navigate through all sections of each vehicle (Tesla 3, Model S, Y, X)
-- Hamburger Menu on the left
-- Animations
+- Hamburger Menu that populates only when triggered. 
+- Animations for menu and down arrow on each section
